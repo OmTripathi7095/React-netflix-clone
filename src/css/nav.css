@@ -1,0 +1,15 @@
+.nav {
+  background-color: transparent;
+  height: 10vh;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 6vh 12vw;
+  position: relative;
+  top: 0;
+}
+.logo {
+  height: 5.5vh;
+  width: 10vw;
+}

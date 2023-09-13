@@ -1,0 +1,29 @@
+section {
+  height: 80vh;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: black;
+  padding: 5% 10%;
+  border-top: 9px solid #232323;
+  border-bottom: 9px solid #232323;
+}
+.title {
+  width: 60%;
+  padding: 0 5%;
+}
+.title > h1 {
+  text-align: left;
+  font-size: 2.8rem;
+  font-weight: 800;
+  letter-spacing: -1px;
+  /* line-height: 65px; */
+  margin: 10px;
+}
+.title > h3 {
+  text-align: left;
+  font-size: 1.5rem;
+  font-weight: 400;
+  margin: 15px;
+}
